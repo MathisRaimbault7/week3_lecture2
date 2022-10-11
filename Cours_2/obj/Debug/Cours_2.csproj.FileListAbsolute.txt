@@ -1,0 +1,8 @@
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_2\obj\Debug\Cours_2.csproj.AssemblyReference.cache
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_2\obj\Debug\Cours_2.csproj.SuggestedBindingRedirects.cache
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_2\obj\Debug\Cours_2.csproj.CoreCompileInputs.cache
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_2\bin\Debug\Cours_2.exe.config
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_2\bin\Debug\Cours_2.exe
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_2\bin\Debug\Cours_2.pdb
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_2\obj\Debug\Cours_2.exe
+D:\Bureau\OneDrive - De Vinci\ESILV\3ème année\Matière\C#\Cours_2\obj\Debug\Cours_2.pdb
